@@ -1,7 +1,7 @@
 # Automation-of-Sauce-Demo-
-**#Setting-up-BaseTest**
+# Setting-up-BaseTest
 
-#Things-needed-for-setting-up
+# Things-needed-for-setting-up
 
 
 
