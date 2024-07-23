@@ -19,7 +19,7 @@
 5. Open the file in file explorer which will open the file in browser.
 6. There you will see the reporting on test being passed or failed.
 7. In this test class the browserchoice() method is annotated with @BeforeSuite() annotation rather because it will be run only one time but credential_read() method is annotated with @BeforeMethod() because credentials are needed in every Test.
------------------------------------------------------------------------The End-------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------The End--------------------------------------------------------------------------------------------
 
 
 
